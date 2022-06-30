@@ -1,1 +1,1 @@
-# Olympia_DBMS
+# Gym-Management
